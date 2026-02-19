@@ -1,5 +1,7 @@
 <h1 align="center">Suraj Bhardwaj</h1>
-<h3 align="center">Full-Stack Developer | React • Node.js • PHP</h3>
+<h3 align="center">
+Full-Stack Developer • Technical Trainer • React | Node.js | PHP
+</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/surajbhardwaj07">
@@ -22,10 +24,13 @@
 
 Full-Stack Developer with **3+ years of experience** building scalable, production-ready applications.
 
-- ⚛️ React.js Specialist  
-- 🔐 Backend with Node.js & PHP  
-- 🗄️ MySQL & MongoDB  
-- 🚀 Focused on clean architecture & performance  
+🎯 I also work as a **Technical Trainer**, helping students and professionals master:
+
+- 🌐 Web Development (HTML, CSS, JavaScript, React, Node, PHP)
+- 📊 Advanced Microsoft Excel
+- 📈 Power BI Desktop & Data Visualization
+
+I focus on clean architecture, performance optimization, and practical industry-ready training.
 
 ---
 
@@ -34,6 +39,15 @@ Full-Stack Developer with **3+ years of experience** building scalable, producti
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,php,js,html,css,mysql,mongodb,git,github,vscode,postman" />
 </p>
+
+---
+
+# 🎓 TRAINING EXPERTISE
+
+- ✔ Web Development Bootcamps  
+- ✔ Advanced Excel (Dashboards, Automation, Formulas, VBA Basics)  
+- ✔ Power BI Desktop (DAX, Data Modeling, Reports)  
+- ✔ Corporate & Student Training Sessions  
 
 ---
 
@@ -52,18 +66,16 @@ Full-Stack Developer with **3+ years of experience** building scalable, producti
 ## 🛒 E-Commerce Platform
 **React • Node.js • MongoDB • JWT**
 
-Modern full-stack e-commerce system with secure authentication and admin dashboard.
-
-✔ JWT Authentication  
+✔ Secure JWT Authentication  
 ✔ Product Filtering & Cart  
-✔ Admin Panel  
+✔ Admin Dashboard  
 ✔ Performance Optimized  
 
 <p>
-  <a href="https://github.com/surajbhardwajj/ecommerce-app">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/surajbhardwajj/#">
+    <img src="https://img.shields.io/badge/View_Code-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://your-live-demo-link.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/View_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -73,18 +85,16 @@ Modern full-stack e-commerce system with secure authentication and admin dashboa
 ## 📋 Task Management System
 **React • PHP • MySQL**
 
-Full-featured team task manager with role-based access control.
-
 ✔ Secure REST APIs  
-✔ CRUD Operations  
-✔ Mobile-First Design  
+✔ Role-Based Access  
+✔ Mobile-First UI  
 ✔ Optimized Queries  
 
 <p>
-  <a href="https://github.com/surajbhardwajj/task-manager">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/surajbhardwajj/#">
+    <img src="https://img.shields.io/badge/View_Code-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://your-live-demo-link.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/View_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -94,29 +104,27 @@ Full-featured team task manager with role-based access control.
 ## 🌐 Portfolio Website
 **HTML • CSS • JavaScript**
 
-Modern responsive personal portfolio with smooth animations.
-
 ✔ 95+ Lighthouse Score  
-✔ Smooth UI Animations  
+✔ Smooth Animations  
 ✔ Fully Responsive  
 
 <p>
-  <a href="https://github.com/surajbhardwajj/portfolio">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/surajbhardwajj/#">
+    <img src="https://img.shields.io/badge/View_Code-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://your-live-demo-link.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/View_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-# 🏆 HIGHLIGHTS
+# 🏆 PROFESSIONAL HIGHLIGHTS
 
 - 🚀 50+ Completed Projects  
+- 🎓 Trained 100+ Students & Professionals  
 - 🧠 100K+ Lines of Production Code  
-- 🤝 Open-Source Contributor  
-- ⭐ Strong Focus on Maintainable Code  
+- ⭐ Strong focus on practical, industry-level solutions  
 
 ---
 
@@ -127,12 +135,14 @@ Modern responsive personal portfolio with smooth animations.
     <img src="https://img.shields.io/badge/Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/surajbhardwajj?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Explore_All_Projects-0077B5?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=surajbhardwajj&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img 
+    src="https://komarev.com/ghpvc/?username=surajbhardwajj&label=Profile%20Views&color=0e75b6&style=flat"
+  />
 </p>
