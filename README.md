@@ -1,50 +1,73 @@
 <h1 align="center">Hi 👋, I'm Suraj Bhardwaj</h1>
-<h3 align="center">Full-Stack Developer | Building Scalable Web Applications</h3>
+<h3 align="center">Full-Stack Developer | React • Node • PHP</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
-  <a href="https://twitter.com/yourprofile">Twitter</a> •
-  <a href="mailto:your@email.com">Email</a>
+  <a href="https://linkedin.com/in/surajbhardwaj07" target="_blank">LinkedIn</a> •
+  <a href="https://twitter.com/iamsrjbhardwaj" target="_blank">Twitter</a> •
+  <a href="https://instagram.com/suraj_bhardwaj07_" target="_blank">Instagram</a> •
+  <a href="mailto:surajbhardwaj7575@gmail.com">Email</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-- 🔭 I’m currently working on **Enterprise Web Applications**
-- 🌱 I’m learning **Cloud Architecture & System Design**
-- 💬 Ask me about **JavaScript, Angular, Node.js**
-- ⚡ Fun fact: I turn coffee into scalable systems ☕
-
----
-
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,angular,nodejs,express,mongodb,html,css,git,docker" />
-</p>
+- 💻 Full-Stack Developer passionate about building scalable and user-friendly web applications  
+- ⚛️ Specialized in **React.js & Modern JavaScript**  
+- 🌐 Backend experience with **Node.js & PHP**  
+- 🎯 Focused on clean code, performance & real-world problem solving  
+- ☕ I turn ideas into production-ready applications  
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,git,github,vscode" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 📊 GitHub Stats
 
-- 🔹 **Project Name** – Short description of what it does  
-- 🔹 **Project Name** – Short description  
-- 🔹 **Project Name** – Short description  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surajbhardwajj&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajbhardwajj&theme=tokyonight" />
+</p>
 
 ---
 
-### 🤝 Let's Connect
+## 🚀 Featured Projects
 
-I’m open to collaboration, freelance projects, and innovative ideas.
+### 🛒 E-Commerce Web App
+Built with **React + Node.js + MongoDB**  
+- User authentication & JWT security  
+- Product filtering & cart system  
+- Admin dashboard for product management  
 
-⭐ From [Your Name](https://github.com/yourusername)
+---
+
+### 📋 Task Management System
+Built with **React + PHP + MySQL**  
+- CRUD operations  
+- Secure login system  
+- Responsive UI design  
+
+---
+
+### 🌐 Portfolio Website
+Built with **HTML + CSS + JavaScript**  
+- Fully responsive design  
+- Smooth animations  
+- Modern UI/UX layout  
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to:
+- 💼 Freelance Projects  
+- 🤝 Collaborations  
+- 🚀 Startup Opportunities  
+
+⭐ From [Suraj Bhardwaj](https://github.com/surajbhardwajj)
